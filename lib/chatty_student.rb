@@ -12,7 +12,11 @@ class Chatty_Student < Student
     super
     super
     super
-    
+    super
+    super
+    super
+    super
+    super
       
   end
   
